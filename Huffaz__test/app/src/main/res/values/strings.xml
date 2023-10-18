@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Huffaz__test</string>
+    <string name="minimum_password">Password must be at least 6 characters long.</string>
+    <string name="auth_failed">Authentication failed. Please check your credentials.</string>
+</resources>
